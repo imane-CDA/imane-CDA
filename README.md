@@ -1,81 +1,85 @@
 # 👋 Salut, je suis **Imane Boujnane**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F05138&center=true&vCenter=true&width=650&lines=Développeuse+Web+%26+Web+Mobile;À+la+recherche+d'une+alternance;Passionnée+par+l'innovation+et+le+mobile;Apprentissage+continu+%7C+Clean+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F05138&center=true&vCenter=true&width=650&lines=Développeuse+iOS+(SwiftUI);À+la+recherche+d'une+alternance;Passionnée+par+le+mobile+et+l'UI;Clean+Code+%7C+MVVM+Architecture" />
+</p>
+
+---
+
+🎯 **Développeuse iOS (SwiftUI)** orientée UI moderne et architecture MVVM  
+📍 France  
+🚀 À la recherche d’une alternance en développement iOS  
+
+---
+
+## 🚀 Projets
+
+### 🏋️‍♂️ Workout App (SwiftUI - MVVM)
+
+Application iOS développée en **SwiftUI** avec architecture **MVVM**.
+
+- 📋 Liste de workouts
+- 🔍 Vue détail
+- 🎨 UI moderne avec composants réutilisables
+- ⚙️ Architecture propre et scalable
+
+👉 https://github.com/imane-CDA/Swiftui-workout-app
+
+---
+
+## 📱 Aperçu de l'application
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d40f1452-ec09-4ea9-adeb-7ba0d158c22e" width="250"/>
+  <img src="https://github.com/user-attachments/assets/166c4483-e548-453c-8cb3-abda4692d127" width="250" />
+
 </p>
 
 
 ---
 
-Développeuse Web & Mobile passionnée par la création d'applications innovantes. 🚀  
-Mon objectif : rejoindre la promotion **"Conceptrice Développeuse d'Applications Apple"** pour perfectionner mes compétences en développement mobile.  
+## 🧱 Architecture
+
+- MVVM
+- Séparation des responsabilités
+- Composants réutilisables
 
 ---
 
-## 🌱 Mon parcours
+## 🛠 Tech Stack
 
-- 💻 **Développement Web & Web Mobile** : HTML, CSS, JavaScript, PHP, SQL  
-- 📱 **Formation AFP** : découverte du framework **SwiftUI**  
-- 📱 **Formation Extended** : perfectionnement en développement iOS avec **SwiftUI** et architecture **MVVM**  
+**📱 Mobile :**  
+Swift • SwiftUI • MVVM  
 
----
+**💻 Web :**  
+HTML • CSS • JavaScript • PHP  
 
-## 🛠 Mes compétences
+**🗄 Données :**  
+SQL • NoSQL  
 
-**💻 Langages :**  
-HTML, CSS, JavaScript (vanilla), PHP, SQL, Swift  
-
-**📚 Frameworks & Librairies :**  
-Laravel, MVC, MVVM, SwiftUI  
-
-**🗄 Bases de données :**  
-SQL, NoSQL  
-
-**⚙️ Méthodes & Outils :**  
-POO, MERISE, GitHub, Méthodes Agiles  
-
-**🎨 Conception & Design :**  
-Figma, Canva  
+**⚙️ Outils :**  
+Git • GitHub • Xcode • Figma  
 
 ---
 
-## 🔥 Badges
+## 🌱 Actuellement
 
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/SwiftUI-5ED0F0?style=for-the-badge&logo=swift&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
-<td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"></td>
-</tr>
-
-<tr>
-<td><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/NoSQL-005A9C?style=for-the-badge&logo=mongodb&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/POO-0099ff?style=for-the-badge"></td>
-<td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge"></td>
-</tr>
-</table>
+- 📱 Perfectionnement SwiftUI
+- 🔥 Création de projets iOS
 
 ---
 
-## 🌟 Objectif
+## 🎯 Objectif
 
-Créer des **applications performantes et innovantes**, alliant **créativité et technique**, dans le cadre d’une **alternance**, afin d’intégrer la promotion **"Conceptrice Développeuse d’Applications Apple"**.
+Intégrer une alternance en développement iOS et concevoir des applications modernes, performantes et centrées utilisateur.
 
 ---
 
 ## 📫 Contact
 
-- 💌 Email : boujnane.imaane@gmail.com 
-- 🔗 LinkedIn : https://www.linkedin.com/in/im%C3%A2ne-boujnane/ 
+- 💌 Email : boujnane.imaane@gmail.com  
+- 🔗 LinkedIn : https://www.linkedin.com/in/im%C3%A2ne-boujnane/  
 
 ---
 
-Merci pour votre visite ! 🎉  
+⭐️ Merci pour votre visite !
