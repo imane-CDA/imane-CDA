@@ -1,10 +1,14 @@
-<img width="3400" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/10ece137-81ee-479b-8d99-bf3026761989" />
+# 👋 Salut, je suis **Imane Boujnane**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F05138&center=true&vCenter=true&width=650&lines=Développeuse+Web+%26+Web+Mobile;À+la+recherche+d'une+alternance;Passionnée+par+l'innovation+et+le+mobile;Apprentissage+continu+%7C+Clean+Code" />
+</p>
 
 
-# 👋 Salut ! Je suis Imane Boujnane
+---
 
 Développeuse Web & Mobile passionnée par la création d'applications innovantes. 🚀  
-Mon objectif : rejoindre la promotion **"Conceptrice Développeuse d'Applications devOps"** pour perfectionner mes compétences en développement mobile.  
+Mon objectif : rejoindre la promotion **"Conceptrice Développeuse d'Applications Apple"** pour perfectionner mes compétences en développement mobile.  
 
 ---
 
@@ -37,44 +41,33 @@ Figma, Canva
 
 ## 🔥 Badges
 
-<table width="100%">
+<table>
 <tr>
-<td width="7%"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"></td>
-<td width="7%"><img src="https://img.shields.io/badge/SwiftUI-5ED0F0?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"></td>
-<td width="7%"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
-<td width="7%"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
-<td width="7%"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"></td>
-<td width="7%"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></td>
-<td width="7%"><img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></td>
-<td width="7%"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></td>
-<td width="7%"><img src="https://img.shields.io/badge/NoSQL-005A9C?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"></td>
-<td width="7%"><img src="https://img.shields.io/badge/POO-0099ff?style=for-the-badge" alt="POO"></td>
-<td width="7%"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></td>
-<td width="7%"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></td>
-<td width="7%"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></td>
-<td width="7%"><img src="https://img.shields.io/badge/MVC-8A2BE2?style=for-the-badge" alt="MVC"></td>
-<td width="7%"><img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge" alt="MVVM"></td>
+<td><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/SwiftUI-5ED0F0?style=for-the-badge&logo=swift&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
+<td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"></td>
+</tr>
+
+<tr>
+<td><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/NoSQL-005A9C?style=for-the-badge&logo=mongodb&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/POO-0099ff?style=for-the-badge"></td>
+<td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge"></td>
 </tr>
 </table>
 
 ---
 
-## 💡 Projets en vedette
-
-
-### 1. Ecokids  
-📱 Application iOS développée avec **SwiftUI** et architecture **MVVM**.  
-🔗 https://github.com/imane-CDA/Ecokids.git
-
-### 2. Sport2Day  
-📱 Application iOS développée avec **SwiftUI** et architecture **MVVM**.  
-🔗 https://github.com/imane-CDA/Sport2Day.git
-
----
-
 ## 🌟 Objectif
 
-Créer des **applications performantes et innovantes**, alliant **créativité et technique**, et intégrer la promotion **"Conceptrice Développeuse d'Applications devOps"**.  
+Créer des **applications performantes et innovantes**, alliant **créativité et technique**, dans le cadre d’une **alternance**, afin d’intégrer la promotion **"Conceptrice Développeuse d’Applications Apple"**.
 
 ---
 
